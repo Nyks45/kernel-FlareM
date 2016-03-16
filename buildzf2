@@ -108,4 +108,3 @@ end=`date +%s`
 runtime=$((end-start))
 echo "Completion Time :"
 echo "$runtime sec\n"
-echo "all done, ready to flash"
